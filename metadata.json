@@ -1,0 +1,6 @@
+{
+  "name": "مولد أسماء فري فاير",
+  "description": "تطبيق لتوليد ٢٠٠ أسم فري فاير مزخرف",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
