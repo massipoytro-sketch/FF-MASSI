@@ -6,10 +6,8 @@ workflows:
       android:
         ndk: "25.2.9519653"
         cmake: "3.22.1"
-        gradle:
-          - gradle@8.0
+        gradle: "8.0"
       java: 17
-      cocoapods: default
     scripts:
       - name: Build APK
         script: |
