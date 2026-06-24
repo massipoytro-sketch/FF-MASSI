@@ -7,7 +7,6 @@ workflows:
       android:
         ndk: "25.2.9519653"
         cmake: "3.22.1"
-        gradle: "8.0"
     scripts:
       - name: Build APK
         script: |
